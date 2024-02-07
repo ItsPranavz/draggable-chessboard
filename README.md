@@ -1,4 +1,4 @@
-## Draggabke Chessboard
+## Draggable Chessboard
 A basic project for creating a draggable chessboard in ReactJS.
 
 ## Libraries Used
