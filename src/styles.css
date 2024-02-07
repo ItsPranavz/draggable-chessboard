@@ -11,3 +11,17 @@
     font-size: larger;
     color: chocolate;
 }
+
+.drag-handle {
+    background-color: #ccc;
+    padding: 5px;
+    cursor: move;
+}  
+
+.drag-handle-icon {
+    font-size: 1.2rem;
+}
+
+.chessboard-div {
+    border: 2px solid black;
+  }

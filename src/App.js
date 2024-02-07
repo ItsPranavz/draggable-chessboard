@@ -13,8 +13,11 @@ function App() {
 
   return (
     <div className='container'>
-      <Draggable>
-        <div>
+      <Draggable handle='.drag-handle'>
+        <div className='chessboard-div'>
+          <div className="drag-handle">
+            <span className="drag-handle-icon">&#x2630;</span>
+          </div>
           <Chessboard
             boardWidth={500} />
         </div>
